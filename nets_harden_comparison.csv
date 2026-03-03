@@ -1,0 +1,11 @@
+Game_Description,Date,Opponent,Location,Result,Nets_Score,Opponent_Score,Point_Difference,Notes
+James Harden First Game with Nets,2021-01-16,Orlando Magic,Home,W,122,115,+7,Harden triple-double: 32 pts 12 reb 14 ast
+Nets 2019-20 Season Opener,2019-10-23,Minnesota Timberwolves,Home,L,126,127,-1,Overtime game - Kyrie Irving Nets debut
+,,,,,,,
+COMPARISON SUMMARY,,,,,,,
+Nets points in Harden debut game,2021-01-16,,,122,,,,Base comparison value
+Nets points in previous season opener,2019-10-23,,,126,,,,Base comparison value
+Point difference (Harden debut - Previous opener),,,,,-4,,,ANSWER: Nets scored 4 FEWER points
+,,,,,,,
+Did Nets score MORE with Harden?,NO,,,,,,,
+Point difference between games,4 points,,,,,,,Absolute difference
